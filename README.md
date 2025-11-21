@@ -23,6 +23,13 @@ This walkthrough demonstrates how tickets move through the osTicket system. It c
 
 ## Accessing osTicket
 
+<table>
+  <tr>
+    <td><img width="1920" height="1080" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/9ed0c2ca-a014-4e8b-bfca-1e66466186d4"" /></td>
+    <td><img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/49d88795-111a-416b-819c-381c0ae960dc" /></td>
+  </tr>
+</table>
+
 Begin by confirming access to the two main interfaces.
 
 **Admin or Analyst Login:**  
@@ -36,6 +43,7 @@ These links allow the lab participant to act as an end user and as a help desk a
 ---
 
 ## Preparing Departments
+<img width="80%" height="80%" alt="Screenshot (234)" src="https://github.com/user-attachments/assets/17435827-f709-4411-b0d4-fcb710a49424" />
 
 Before working with tickets, update the department structure.
 
@@ -48,6 +56,7 @@ This ensures that the ticket routing aligns correctly with later scenarios.
 ---
 
 ## Scenario 1: Banking Outage
+<img width="80%" height="80%" alt="Screenshot (235)" src="https://github.com/user-attachments/assets/a229dcb4-490d-4a27-828f-742cfca69a8d" />
 
 This scenario focuses on a critical outage affecting online banking.
 
