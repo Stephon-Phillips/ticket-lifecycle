@@ -83,6 +83,7 @@ Work the ticket to completion by responding, updating status, and resolving it.
 ---
 
 ## Scenario 2: Adobe Upgrade Issue
+<img width="80%" height="80%" alt="Screenshot (236)" src="https://github.com/user-attachments/assets/16c1e0b7-668b-4a5b-80a4-e85b4f7540c4" />
 
 This scenario simulates a medium-priority support request.
 
@@ -100,6 +101,7 @@ Work the ticket to completion as john.
 ---
 
 ## Scenario 3: CFO Laptop Failure
+<img width="80%" height="80%" alt="Screenshot (237)" src="https://github.com/user-attachments/assets/fd310ec3-011b-44fb-a226-577b79c854bd" />
 
 This scenario represents an executive-level hardware issue.
 
@@ -117,6 +119,7 @@ Work the ticket to completion as john.
 ---
 
 ## Severity and Access Behavior
+<img width="80%" height="80%" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/b314cb42-6f33-4e11-b007-e499163b4e1d" />
 
 This section illustrates how severe tickets affect visibility for agents.
 
@@ -131,25 +134,3 @@ Actions:
 You should be able to view it but not modify it due to restricted access.
 
 ---
-
-## Completing All Tickets
-
-Resolve all remaining tickets in the queue to finish the lab.
-
-Note: Many ticketing systems including osTicket send emails for every update. End users can reply directly to those messages and the replies will be added to the ticket thread.
-
----
-
-## Optional Screenshots Section
-
-```html
-<table>
-  <tr>
-    <td><img src="image1.png" width="300"></td>
-    <td><img src="image2.png" width="300"></td>
-  </tr>
-  <tr>
-    <td><img src="image3.png" width="300"></td>
-    <td><img src="image4.png" width="300"></td>
-  </tr>
-</table>
